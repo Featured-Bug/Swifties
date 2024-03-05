@@ -1,2 +1,2 @@
 # Swifties
-Swifties
+Contract for $Swifties
